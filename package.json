@@ -1,0 +1,23 @@
+{
+  "name": "simple_file_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "port": "8080",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giwiro/SimpleFileServer.git"
+  },
+  "author": "Gi Wah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giwiro/SimpleFileServer/issues"
+  },
+  "homepage": "https://github.com/giwiro/SimpleFileServer#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
